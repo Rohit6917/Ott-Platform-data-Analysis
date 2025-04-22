@@ -1,0 +1,58 @@
+🎬 Project Title: OTT Platform Data Analysis Dashboard
+📊 Overview:
+This Power BI dashboard provides a deep analysis of user engagement, performance, and content preferences across an OTT (Over-The-Top) streaming platform, possibly something like JioCinema, Netflix, etc.
+
+🔍 Key Dashboard Insights:
+✅ 1. User Behavior & Engagement
+Active Users by Region/Device: It shows how many users are active from different locations (e.g., cities/states) and devices (mobile, smart TV, desktop).
+
+Average Watch Time: Helps identify how long users spend on the platform. Higher watch time = better engagement.
+
+Peak Viewing Hours: Highlights what time users are most active — e.g., evenings or weekends, helpful for release planning.
+
+🎞️ 2. Content Insights
+Top Genres Watched: Reveals which genres (e.g., Drama, Action, Comedy) are most popular. Can be visualized as a bar or donut chart.
+
+Top Viewed Content (Movies/Series): Shows the most-watched titles, indicating content popularity and trends.
+
+Language Preferences: Shows which content languages users prefer — Hindi, English, Tamil, etc.
+
+💰 3. Subscription & Revenue Metrics
+Revenue by Subscription Tier: Visualizes earnings from Basic, Premium, and Family plans.
+
+Monthly Subscription Trend: Displays how subscriptions changed over time (seasonal spikes, campaigns effect).
+
+Churn Rate: If included, shows % of users who canceled subscriptions — a key business metric.
+
+📈 4. Performance KPIs
+Total Users / Total Views
+
+Avg. Session Duration
+
+Content Completion Rate — how many users finish the content they start.
+
+Buffering Incidents (if data is available) — tech-side insight.
+
+🧠 Business Insights You Can Mention
+Genre Optimization: Focus marketing on genres with high viewership.
+
+Targeted Ads: Use region/device trends to serve personalized ads.
+
+Content Scheduling: Release major titles during peak view hours.
+
+User Retention Strategy: Address churn by analyzing behavior of users before leaving.
+
+Language Strategy: Invest in regional content if regional languages show high engagement.
+
+📁 Ideal Sections for GitHub README or Resume:
+Project Name: OTT Platform Analytics Dashboard
+Tools Used: Power BI, DAX, Data Modeling
+Key Features:
+
+Multi-page Power BI dashboard for user and content analysis
+
+Genre, language, and regional trends for strategic planning
+
+Revenue and engagement KPI tracking
+
+Designed using slicers, bookmarks, and advanced visuals for interactivity
